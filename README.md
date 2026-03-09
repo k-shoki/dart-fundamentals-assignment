@@ -28,7 +28,7 @@ real-world network delays.
 **Location:** task2/calculator_app.dart
 
 ## Repository Structure
-
+```
 dart-fundamentals-assignment/
 ├── task1/
 │   └── number_analysis.dart
@@ -36,3 +36,4 @@ dart-fundamentals-assignment/
 │   └── calculator_app.dart
 ├── reflection.md
 └── README.md
+```
