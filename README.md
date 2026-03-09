@@ -1,10 +1,8 @@
 # Dart Fundamentals Assignment
 
-Name: Addis Ababa University Student (Placeholder)  
-Student ID: AAU-2026-XXXX  
-Name: Kidist Beyene
-Student ID: ATE/7809/15  
-Subject: Software Engineering • Addis Ababa University 
+**Name:** Kidist Beyene
+**Student ID:** ATE/7809/15
+**Subject:** Software Engineering • Addis Ababa University
 
 ## Project Overview
 
@@ -36,10 +34,3 @@ dart-fundamentals-assignment/
 │   └── calculator_app.dart
 ├── reflection.md
 └── README.md
-```
-
----
-
-**Go to this link:**
-```
-https://github.com/k-shoki/dart-fundamentals-assignment/edit/main/README.md
